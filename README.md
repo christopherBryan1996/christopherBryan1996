@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![alt-text](./diseño.gif)
+<div style="text-align:center">
+    <h1>I'm Christopher Bryan Suarez Mancilla</h1>
+    <h2>A little bit of me</h2>
+    <p>I am 25 years old, I am from Mexico, I am a developer, I use Pytho Java JavaScript and C languages, I have used databases in Mongose mySQL Postgres SQLserver</p>    
+</div>
 
 <!--
 **christopherBryan1996/christopherBryan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
