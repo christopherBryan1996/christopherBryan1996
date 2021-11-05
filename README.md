@@ -22,7 +22,7 @@
                 <img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-simbolo.jpg" width=50px/>
             </a>
             <p>My phone number:</p>
-            <a href=https://api.whatsapp.com/send/?phone=5532046238&text&app_absent=0>
+            <a href=https://api.whatsapp.com/send/?phone=+525532046238&text&app_absent=0>
                 <img src='https://www.tuexpertoapps.com/wp-content/uploads/2015/04/whatsapp-escritorio-011.jpg' width=50px/>
             </a>
         </li>
