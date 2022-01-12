@@ -8,7 +8,7 @@
 <div>
     <ul>
         <li>
-            <p>🔭 I’m currently working on a project that is an events page found in the following  <a href=https://flamboyant-golick-d7cb40.netlify.app>click here</a></p>
+            <p>🔭 I’m currently working on a project that is an events page found in the following  <a href=https://jolly-booth-281355.netlify.app>click here</a></p>
         </li>
         <li>
             <p>🌱 I’m currently learning on learning how to use Django to implement artificial intelligence</p>
